@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e077f1c0b78a8924d8853b59fdb4fe09, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  textoNarrativo: "\xA1Felicidades, es tu segunda semana en McBurger!\r\nTodos tus
+    compa\xF1eros est\xE1n muy orgullosos con tu desempe\xF1o durante la semana pasada,
+    corriendo Auto. \r\n\nEn cambio tu jefe Darren, se siente amenazado con tu desempe\xF1o.
+    No quiere que nadie le quite su puesto y te exige cambiar de lugar.\r\n\xBFQu\xE9
+    har\xE1s?\r\n"
+  respuestaUno: Quejarse con un superior.
+  respuestaDos: Cambiar de lugar a cajas
+  arrayReferencias: 0100000002000000
+  quitaBotones: 0
